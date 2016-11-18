@@ -8,6 +8,7 @@ https://hackpad.com/oe07d7NrsTd
 
 ###販売商品
 奥能登地サイダー　しおサイダー　：　http://ante-jp.com/?page_id=174
+
 金沢湯涌サイダー　柚子乙女　：　http://ante-jp.com/?page_id=176
 
 ###取引先
