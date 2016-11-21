@@ -16,3 +16,5 @@ https://hackpad.com/oe07d7NrsTd
 
 ###取引数（在庫管理）
 https://docs.google.com/spreadsheets/d/1NFpc4jYirRUclnLpzbWylOne10XRoMp0clEN7fArJ4U/edit#gid=0
+
+ああ
